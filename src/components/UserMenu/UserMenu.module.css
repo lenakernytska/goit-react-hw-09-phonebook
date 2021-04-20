@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+.avatar {
+  margin-right: 10px;
+}
+.name {
+  color: rgb(63, 81, 181);
+  text-decoration: underline;
+  font-size: 16px;
+  font-weight: 700;
+  margin-right: 20px;
+}

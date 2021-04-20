@@ -1,0 +1,14 @@
+.background {
+  background-image: url('./phone.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 600px;
+  width: 100%;
+  margin-top: 40px;
+}
+
+.title {
+  color: rgb(63, 81, 181);
+  font-weight: 900;
+}
